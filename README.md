@@ -30,4 +30,17 @@ __
 
 📈 Reports: Generate and view reports
 
+# 🛠️ Installation
+
+## Prerequisites
+
+• 📚 Visual Studio with VB.NET support 
+
+• 📊 MS Access 
+
+
+
+
+
+
 

@@ -4,7 +4,7 @@
 
 This Library Management System is developed using VB.NET for the front-end and MS Access for the back-end database. It is designed to help manage the day-to-day operations of a library, including managing books, members, loans, and returns.
 
-# ✨ Features
+# ✨ Features :
 
 📖 Book Management: Add, update, delete, and search for books. 
 
@@ -16,7 +16,7 @@ This Library Management System is developed using VB.NET for the front-end and M
 
 📊 Reporting: Generate reports on issued books, overdue books, and member activity.
 __
-## 🚀 Usage
+## 🚀 Usage :
 
 🔑 Login: Use the default credentials or create a new user.
 
@@ -30,7 +30,7 @@ __
 
 📈 Reports: Generate and view reports
 
-# 🛠️ Installation
+# 🛠️ Installation :
 
 ## Prerequisites
 

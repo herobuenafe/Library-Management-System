@@ -38,6 +38,15 @@ __
 
 • 📊 MS Access 
 
+## 🚀 Installation Steps:
+
+1. Clone the repository to your local machine.
+2. Open the project in Visual Studio.
+3. Set up the MS Access database according to the instructions provided.
+4. Configure any necessary database connections in the project settings.
+5. Build and run the project
+
+
 
 
 

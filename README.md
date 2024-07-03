@@ -46,6 +46,10 @@ __
 4. Configure any necessary database connections in the project settings.
 5. Build and run the project
 
+## 📬❤ Additional Step:
+
+a. Message me how to run my code ❤
+
 
 
 

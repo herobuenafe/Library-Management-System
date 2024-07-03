@@ -1,8 +1,8 @@
-# 📚 Library Management System
+# 📚 Library Management System 
 
 ## Overview
 
-This Library Management System is developed using VB.NET for the front-end and MS Access for the back-end database. It is designed to help manage the day-to-day operations of a library, including managing books, members, loans, and returns.
+This Library Management System (School Project) is developed using VB.NET for the front-end and MS Access for the back-end database. It is designed to help manage the day-to-day operations of a library, including managing books, members, loans, and returns.
 
 # ✨ Features :
 

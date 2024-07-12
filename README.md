@@ -15,6 +15,16 @@ This Library Management System (School Project) is developed using VB.NET for th
 🔍 Search Functionality: Easily search for books and members using various criteria.
 
 📊 Reporting: Generate reports on issued books, overdue books, and member activity.
+
+📝 CRUD Operations:
+
+       • 🆕 Create: Add new records for books and members.
+  
+       • 🔍 Read: View and search existing records.
+  
+       • ✏️ Update: Modify existing book and member records.
+  
+       • 🗑️ Delete: Remove book and member records from the system.
 __
 ## 🚀 Usage :
 
